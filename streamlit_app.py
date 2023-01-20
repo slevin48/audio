@@ -11,7 +11,7 @@ now = datetime.now()
 date_time = now.strftime("%m-%d-%Y_%H-%M-%S")
 
 # Server address 
-fargate = "35.170.76.218"
+fargate = "3.235.227.217"
 url = f"http://{fargate}:9910/audioApp/"
 # url = "http://localhost:9910/audioApp/"
 
